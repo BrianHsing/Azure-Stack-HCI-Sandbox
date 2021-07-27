@@ -12,3 +12,4 @@
 
 - [Lab1 - 使用 Deploy to Azure 按鈕在 Azure 入口網站佈署](https://github.com/Azure-Stack-HCI-Sandbox/blob/main/lab1.md)<br>
 
+- [Lab2 - 使用桌面 New-AzSHCISandbox 一鍵式佈署](https://github.com/Azure-Stack-HCI-Sandbox/blob/main/lab2.md)<br>

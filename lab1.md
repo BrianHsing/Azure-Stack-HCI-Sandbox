@@ -23,3 +23,5 @@
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy9.png)<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy10.png)<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy11.png)<br>
+
+前往 [Lab2 - 使用桌面 New-AzSHCISandbox 一鍵式佈署](https://github.com/Azure-Stack-HCI-Sandbox/blob/main/lab2.md)<br>
