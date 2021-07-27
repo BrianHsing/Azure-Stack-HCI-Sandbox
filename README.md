@@ -14,4 +14,4 @@
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy1.png)<br>
 - 點選後就會跳到 Azure 入口網站從自訂範本佈署的畫面<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy2.png)<br>
-- 
+- 回到 [AzStackHCISandbox](https://github.com/microsoft/AzStackHCISandbox) 進入 json 資料夾，並且開啟 `azuredeploy.parameters.json` 檔案
