@@ -1,4 +1,4 @@
-# 使用 Deploy to Azure 按鈕在 Azure 入口網站佈署
+# Lab1 - 使用 Deploy to Azure 按鈕在 Azure 入口網站佈署
 
 - 點選連結  [AzStackHCISandbox](https://github.com/microsoft/AzStackHCISandbox) 會看到 Deploy to Azure 的按鈕<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy1.png)<br>
