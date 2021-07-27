@@ -7,3 +7,11 @@
 - 稍後您將透過一鍵式按鈕進行佈署，佈署之前必須複製原作者寫好的 Json file<br>
 - 完成 AzStackHCISandbox 佈署大約需要花費 3 小時的時間，每小時花費大約為 $ 24.70 台幣<br>
 - 您也可以參考原文的[影片](https://www.youtube.com/watch?v=nmQ12Ma1pD4)進行操作<br>
+
+## 使用 Deploy to Azure 按鈕在 Azure 入口網站佈署
+
+- 點選連結  [AzStackHCISandbox](https://github.com/microsoft/AzStackHCISandbox) 會看到 Deploy to Azure 的按鈕<br>
+![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy1.png)<br>
+- 點選後就會跳到 Azure 入口網站從自訂範本佈署的畫面<br>
+![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy2.png)<br>
+- 
