@@ -29,3 +29,7 @@
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy23.png)<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy24.png)<br>
 - 點選 azstackcluster.contoso.com 就可以進到叢集管理頁面<br> ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy25.png)<br>
+
+您可以選擇前往 [Azure Stack HCI Simple](https://github.com/BrianHsing/Azure-Stack-HCI-Simple) 中的 [Lab5 - Azure Stack HCI 叢集初始設定](https://github.com/BrianHsing/Azure-Stack-HCI/blob/main/lab5.md) 向 Azure 註冊叢集以及 Azure 混合式服務的相關操作<br>
+
+回到 [Azure Stack HCI Sandbox](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox)<br>
