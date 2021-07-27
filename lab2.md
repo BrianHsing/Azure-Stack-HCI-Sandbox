@@ -1,0 +1,1 @@
+# Lab2 - 使用桌面 New-AzSHCISandbox 一鍵式佈署
