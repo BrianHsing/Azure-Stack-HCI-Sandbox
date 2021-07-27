@@ -9,6 +9,11 @@
 - 跳出視窗後會詢問您是否要改變執行原則，這邊輸入 `a`，會開始執行佈署<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy15.png)<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy16.png)<br>
-> **Tips.這個步驟需要至少 3 個小時才會完成** <br>
+> **Tips.這個步驟大約需要 3 個小時才會完成** <br>
 
 ## 透過 Windows Admin Center 新增 Azure Stack HCI 叢集
+
+- 完成後就可以看到桌面出現一個遠端桌面的捷徑 `AdminCenter`，登入帳號是 contoso\Administrator，密碼則是 Password01<br>
+![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy17.png)<br>
+- 登入後可以看到桌面<br>
+- 
