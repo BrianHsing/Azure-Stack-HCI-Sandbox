@@ -28,3 +28,4 @@
 - 完成安裝後，請再次點選 Validate 按鈕，最後點選最下方 Add 按鈕，即可完成<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy23.png)<br>
 ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy24.png)<br>
+- 點選 azstackcluster.contoso.com 就可以進到叢集管理頁面<br> ![GITHUB](https://github.com/BrianHsing/Azure-Stack-HCI-Sandbox/blob/main/images/deploy25.png)<br>
